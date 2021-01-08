@@ -9,7 +9,7 @@ function Navigation() {
       </Link>
       <Link href="/about">
       {/* CSS-in-JS method */}
-        <a style={{color: 'green'}}>About</a>
+        <a style={{color: 'blue'}}>About</a>
       </Link>
     </nav>
   );
