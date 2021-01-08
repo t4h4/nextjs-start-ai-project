@@ -7,9 +7,8 @@ function Layout({ children }) {
         <title>Taha's Web Site</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
-      <Navigation />
+      {/* <Navigation /> */}
       <main>{children}</main>
-      <footer>2021</footer>
     </div>
   );
 }
